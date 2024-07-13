@@ -49,8 +49,18 @@ The residual plot shows the distribution of prediction errors (residuals). The h
 
 This histogram displays the frequency distribution of residuals. A normal distribution of residuals suggests that the model's errors are evenly distributed.
 
+### 4. Countplot
+![Distribution of Residuals](Countplot.png)
+
+This countplot shows the number of movies released each year from 1913 to 2021. There is a clear upward trend, especially from the 1980s onward, with a significant increase in the number of movies released per year, peaking in 2021.
+
+### 5. Lineplot
+![Distribution of Residuals](Lineplot.png)
+
+This line plot shows the number of movies released each year from 1913 to 2021. The trend indicates a steady increase in movie production, with noticeable growth starting in the 1980s and significant peaks in the 2010s, before a sharp decline in 2021.
+
 ## How to Use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/movies-rating-prediction.git
+   https://github.com/1073rajan/Afame-Technologies.git
