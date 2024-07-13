@@ -35,17 +35,17 @@ SVR achieved a higher accuracy compared to both Linear and Ridge Regression, wit
 ## Graphs Used in the Project
 
 ### 1. Scatter Plot of Actual vs Predicted Values
-![Scatter Plot](images/scatter_plot.png)
+![Scatter Plot](Scatterplot.png)
 
 This plot compares the actual movie ratings with the predicted ratings for the test set. The closer the points are to the diagonal line, the better the model's predictions.
 
 ### 2. Residual Plot
-![Residual Plot](images/residual_plot.png)
+![Residual Plot](Residualplot.png)
 
 The residual plot shows the distribution of prediction errors (residuals). The horizontal red line represents zero error. Ideally, the residuals should be randomly distributed around this line, indicating no obvious patterns.
 
 ### 3. Distribution of Residuals
-![Distribution of Residuals](images/distribution_residuals.png)
+![Distribution of Residuals](Distributionplot.png)
 
 This histogram displays the frequency distribution of residuals. A normal distribution of residuals suggests that the model's errors are evenly distributed.
 
